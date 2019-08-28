@@ -1,3 +1,1 @@
-# moldovanews.today
-# test string
-#String for pull
+# removed all strings
